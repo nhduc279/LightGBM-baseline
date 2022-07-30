@@ -16,7 +16,7 @@ Below is the notebook that uses a real-world dataset from Vietnam World Bank Liv
 
 :point_right: Notebook: https://github.com/nhduc279/LightGBM-baseline/blob/main/LightGBM_baseline.ipynb
 
-if you do get stuck or have a small misunderstanding in my notebook, maybe I’ve worded and coded something poorly. Please feel free to leave this post with the comments, I will definitely strive to answer those.
+if you do get stuck or have a small misunderstanding in my notebook, maybe I’ve worded and coded something poorly. Please feel free to <a href = "mailto: abc@example.com">send me an email</a>, I will definitely strive to answer those.
 
 Thanks,
 Duc
